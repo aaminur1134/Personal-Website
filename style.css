@@ -125,10 +125,14 @@ a{
     margin-top: 40px;
     margin-left:  400px;
     margin-right: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+    color:gray;
 }
 .megs{
     background-color:gainsboro;
-    border: 2px solid blueviolet;
+    border: 1px solid blueviolet;
     margin-top: 50px;
     margin-left: 400px;
     margin-right: 400px;
